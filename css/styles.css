@@ -125,6 +125,7 @@ body {
 /* Sections */
 .pecularities-title {
   text-transform: uppercase;
+  font-size: 14px;
 }
 .pecularities-title,
 .work-title {
